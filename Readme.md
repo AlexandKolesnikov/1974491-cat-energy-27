@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
-* Студент: [Виктор Сенюков](https://up.htmlacademy.ru/adaptive/27/user/2004035).
-* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
+* Студент: [Александр Колесников](https://github.com/AlexandKolesnikov).
+* Наставник: [самостоятельная проработка].
 
 ---
 
