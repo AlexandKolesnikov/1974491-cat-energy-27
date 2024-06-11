@@ -1,8 +1,0 @@
-@import "variable";
-
-.landlord-wrapper {
-  @media (min-width: $desktop) {
-    display: flex;
-    justify-content: space-between;
-  }
-}
